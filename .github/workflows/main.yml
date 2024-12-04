@@ -18,7 +18,7 @@ jobs:
 
       - name: Set environment variables
         env:
-          WHATSAPP_TOKEN: ${{ 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 }} 
+          WHATSAPP_TOKEN: ${{  }} 
           WHATSAPP_SESSION_ID: ${ 101TkYESVBDOsUwOv_A_N_Y_A_V_2_eSz}}
           WHATSAPP_PHONE_NUMBER: ${{ +27781673022}}
 
